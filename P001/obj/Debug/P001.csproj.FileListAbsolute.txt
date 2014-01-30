@@ -1,0 +1,5 @@
+E:\Projects\T001\T001\P001\bin\P001.dll
+E:\Projects\T001\T001\P001\bin\P001.pdb
+E:\Projects\T001\T001\P001\obj\Debug\P001.csprojResolveAssemblyReference.cache
+E:\Projects\T001\T001\P001\obj\Debug\P001.dll
+E:\Projects\T001\T001\P001\obj\Debug\P001.pdb
